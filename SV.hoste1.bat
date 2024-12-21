@@ -1,4 +1,4 @@
-REM Last-ик ActivityView. Версия 1 Alpha
+REM Last-ик ActivityView. q6izz
 
 @ECHO OFF
 
